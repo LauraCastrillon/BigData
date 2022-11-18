@@ -1,0 +1,224 @@
+body
+{
+font-family: sans-serif;
+background-color: #121f3d;
+}
+
+.fd-1
+{
+    background-color: #121f3d;
+    
+}
+#buscar
+{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+#botonlink
+{
+ width: 200px;
+    background-color: #98ca3f;
+    
+}
+
+#aprender
+{
+    background-color: #121f3d;
+    color: #fff;
+    
+}
+
+#menuP
+{
+ background-color: #121f3d;
+ 
+
+}
+
+#contenido{
+    font-size: 16px;
+
+}
+
+.text
+{
+    color: #fff;
+    cursor: pointer
+}
+
+.line
+{
+
+    border-color: #fff;
+}
+
+.logo
+{
+    width: 70px;
+    height: 45px;
+}
+
+.logoCS
+{
+ margin-left: 200px;
+ width: 80px;
+ margin-top: 40px;
+}
+
+.txtTP
+{
+    color: #fff;
+    margin-left: 300px;
+    margin-top: -80px;
+    font-size: 50px;
+}
+
+.CL
+{
+    width: 400px;
+    margin-left: 300px;
+}
+
+.txtTPP
+{
+    color: #fff;
+    margin-left: 300px;
+    margin-top: 35px;
+    font-size: 20px;
+}
+
+.txtItem
+{
+    color: #fff;
+    margin-left: 280px;
+    margin-top: -15px;
+    font-size: 20px;
+}
+
+.imgPC
+{
+    margin-left: 720px;
+    width: 600px;
+    height: 500px;
+    margin-top: -580px;
+}
+
+.txtTR
+{
+    color: #fff;
+    margin-left: 300px;
+    margin-top: -10px;
+   
+}
+
+.bnt-R
+{
+    margin-left: 300px;
+    background-color: #080e1c;
+    width: 200px;
+    height: 40px;
+}
+
+#botonR
+{
+    width: 190px;
+    background-color: #98ca3f;
+    margin-left: 510px;
+    margin-top: -70px;
+}
+
+.txtTRR
+{
+    color: #fff;
+    margin-left: 300px;
+    margin-top: -10px;
+    font-size: 15px;
+   
+}
+
+.lineCS
+{
+
+background-color: #33b1ff;
+    height: 4px;
+    width: 77px;
+    margin-left: 660px;
+    
+}
+
+#fd-2{
+    background-color: #0c1633;
+    
+}
+
+.TxtPC
+{
+    color: #fff;
+    margin-left: 20px;
+}
+
+.textTm{
+    color: #fff;
+
+}
+
+.select1
+{
+margin-left: 100px;
+}
+
+.txtTime{
+    color: #8da2c0;
+    margin-left: 70px;
+    margin-top: -42px;
+}
+
+.txtSF
+{
+    color: #fff;
+
+}
+
+.itm
+{
+    color: #98ca3f;
+}
+
+.textitm
+{
+    color: #8da2c0;
+}
+
+.select2{
+ 
+    margin-left: 100px;
+}
+
+#btn-reprod button
+{
+   margin-top: 5px;
+    margin-left: 600px;
+    width: 530px;
+    text-align: left;
+    
+    
+}
+
+.txtPVC
+{
+color: #fff;
+margin-left: 600px;
+margin-top: -350px;
+}
+
+.textFt
+{
+    color: #98ca3f;
+}
+
+
+.textFt2
+{
+    color: #fff;
+}

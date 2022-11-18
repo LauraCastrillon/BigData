@@ -1,0 +1,94 @@
+body
+{
+    background-color: #121f3d;
+    text-rendering: optimizeLegibility;
+font-family: sans-serif;
+}
+
+#buscar
+{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+#botonlink
+{
+ width: 200px;
+    background-color: #98ca3f;
+    
+}
+
+#aprender
+{
+    background-color: #121f3d;
+    color: #fff;
+    
+}
+
+#menuP
+{
+ background-color: #121f3d;
+ 
+
+}
+
+#contenido{
+    font-size: 16px;
+
+}
+
+.text
+{
+    color: #fff;
+    cursor: pointer
+}
+
+.line
+{
+
+    border-color: #fff;
+}
+
+.logo
+{
+    width: 70px;
+    height: 45px;
+}
+
+.imgP
+{
+  width: 1200px;
+  height: 420px;
+}
+
+.textT
+{
+    color: #fff;
+}
+
+.textPr
+{
+    color: #98ca3f;
+}
+
+.textPr2
+{
+    color: #fff;
+}
+
+.textPr3
+{
+    color: #fff;
+}
+
+.textFt
+{
+    color: #98ca3f;
+}
+
+
+.textFt2
+{
+    color: #fff;
+}
+

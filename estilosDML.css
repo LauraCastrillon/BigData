@@ -1,0 +1,106 @@
+body
+{
+font-family: sans-serif;
+background-color: #121f3d;
+}
+
+.fd-1
+{
+    background-color: #121f3d;
+    
+}
+#buscar
+{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+#botonlink
+{
+ width: 200px;
+    background-color: #98ca3f;
+    
+}
+
+#aprender
+{
+    background-color: #121f3d;
+    color: #fff;
+    
+}
+
+#menuP
+{
+ background-color: #121f3d;
+ 
+
+}
+
+#contenido{
+    font-size: 16px;
+
+}
+
+.text
+{
+    color: #fff;
+    cursor: pointer
+}
+
+.logo
+{
+    width: 70px;
+    height: 45px;
+}
+
+
+
+.textFt
+{
+    color: #98ca3f;
+}
+
+
+.textFt2
+{
+    color: #fff;
+}
+
+.progreso
+{
+    width: 45px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.logoC
+{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+.txtTPR
+{
+    color: #fff;
+    margin-left:320px;
+    margin-top: -50px;
+}
+
+.section1
+{
+    margin-left: 150px;
+}
+
+.txtTPRR
+{
+    color: #fff;
+    margin-left:425px;
+    margin-top: -80px;
+}
+
+.vDML
+{
+    margin-left: 250px;
+    margin-top: -430px;
+}
